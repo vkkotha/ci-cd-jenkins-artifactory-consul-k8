@@ -1,0 +1,5 @@
+.DS_Store
+artifactory_data
+jenkins_home
+download
+consul-helm
